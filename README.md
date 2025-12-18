@@ -37,4 +37,8 @@
 | 07 | [Agile]() |
 | 08 | [Hybrid]() |
 
+---
+
+## The 12 Principles of Project Management (PMBOK 7th Edition)
+
 
