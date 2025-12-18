@@ -33,9 +33,9 @@
 
 | Nº | Pages |
 |----|--------|
-| 06 | [Predictive]() |
-| 07 | [Agile]() |
-| 08 | [Hybrid]() |
+| 14 | [Predictive]() |
+| 15 | [Agile]() |
+| 16 | [Hybrid]() |
 
 ---
 
