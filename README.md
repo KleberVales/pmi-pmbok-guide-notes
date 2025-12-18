@@ -21,3 +21,10 @@
 | 08 | [Time/Schedule]() |
 | 09 | [Cost]() |
 | 10 | [Quality]() |
+| 10 | [Resources]() |
+| 10 | [Communications]() |
+| 10 | [Risks]() |
+| 10 | [Acquisitions]() |
+| 10 | [Stakeholders]() |
+
+
