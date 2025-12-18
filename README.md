@@ -1,6 +1,6 @@
 # pmi-pmbok-guide-notes
 
-## Seção 1 – Process groups
+## Process groups
 
 | Nº | Pages |
 |----|--------|
