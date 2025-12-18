@@ -23,8 +23,18 @@
 | 10 | [Quality]() |
 | 10 | [Resources]() |
 | 10 | [Communications]() |
-| 10 | [Risks]() |
-| 10 | [Acquisitions]() |
-| 10 | [Stakeholders]() |
+| 11 | [Risks]() |
+| 12 | [Acquisitions]() |
+| 13 | [Stakeholders]() |
+
+---
+
+## Project Life Cycle
+
+| Nº | Pages |
+|----|--------|
+| 06 | [Integration]() |
+| 07 | [Scope]() |
+| 08 | [Time/Schedule]() |
 
 
