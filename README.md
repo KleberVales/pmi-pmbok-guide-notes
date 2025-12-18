@@ -41,4 +41,8 @@
 
 ## The 12 Principles of Project Management (PMBOK 7th Edition)
 
+| Nº | Pages |
+|----|--------|
+| 14 | [12 Principles]() |
+
 
