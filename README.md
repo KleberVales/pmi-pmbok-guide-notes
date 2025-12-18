@@ -1,4 +1,4 @@
-# pmi-pmbok-guide-notes
+# PMI with PMBOK 
 
 ## Process groups
 
