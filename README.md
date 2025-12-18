@@ -4,9 +4,10 @@
 
 | Nº | Pages |
 |----|--------|
-| 01 | [ Introduction to Spring Framework ]() |
-| 02 | [Java Configuration ]() |
-| 03 | [Properties and Profiles ]() |
-| 04 | [Annotation-Based Configuration and Component Scanning]() |
+| 01 | [Initiation]() |
+| 02 | [Planning]() |
+| 03 | [Execution]() |
+| 04 | [Monitoring and Control]() |
+| 05 | [Closing]() |
 
 ---
