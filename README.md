@@ -49,5 +49,8 @@
 
 ## ✉️ Contact
 
+Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/klebervales) | [GitHub](https://github.com/KleberVales)
+
 
 
